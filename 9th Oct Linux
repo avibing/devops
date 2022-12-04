@@ -1,0 +1,8 @@
+User  Group  Other
+7     7       7
+
+Read ----> 4
+Write ---> 2
+Execute -> 1
+4+2+1 ---> 7
+
